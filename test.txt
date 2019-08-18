@@ -1,1 +1,2 @@
-sddsds
+select *
+from emp;
