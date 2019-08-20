@@ -1,2 +1,2 @@
 select *
-from emp;
+from emp where ename='BLAKE';
